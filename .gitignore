@@ -1,0 +1,6 @@
+.env
+node_modules/
+downloads/
+docker/data
+package-lock.json
+logs
